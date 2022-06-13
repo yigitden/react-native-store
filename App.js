@@ -17,8 +17,9 @@ function App() {
             title: 'Store',
             headerStyle: {
               backgroundColor: '#64b5f6',
+              color:'white',
             },
-            headerTitleStyle: 'white',
+            headerTitleStyle: '#64b5f6',
           }}
         />
         <Stack.Screen
@@ -29,7 +30,7 @@ function App() {
             headerStyle: {
               backgroundColor: '#64b5f6',
             },
-            headerTitleStyle: 'white',
+            headerTitleStyle: '#64b5f6',
           }}
         />
       </Stack.Navigator>

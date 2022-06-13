@@ -6,7 +6,7 @@ export default StyleSheet.create({
         borderWidth:1,
         margin:10,
         backgroundColor:'#eeee',
-        flexDirection:'row' 
+        flexDirection:'row', 
     },
     image:{
         width:100, 
